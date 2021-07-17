@@ -1,0 +1,13 @@
+.home{
+    flex: 4;
+}
+
+
+.sidebaricon{
+    margin-right: 5px;
+    font-size: 20px !important;
+}
+.homeWidget{
+    display: flex;
+    margin: 20px;
+}
